@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: About	</title>
+	<atom:link href="/about/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Fri, 18 May 2012 15:28:31 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>
+		By: Open Hardware Summit, streaming to a place near you! &#124; Interaction Design Umeå		</title>
+		<link>/#comment-21</link>
+
+		<dc:creator><![CDATA[Open Hardware Summit, streaming to a place near you! &#124; Interaction Design Umeå]]></dc:creator>
+		<pubDate>Wed, 14 Sep 2011 21:48:57 +0000</pubDate>
+		<guid isPermaLink="false">http://www.openhardwaresummit.org/#comment-21</guid>
+
+					<description><![CDATA[[...] The Open Hardware Summit is the world’s first comprehensive conference on open hardware, founded and chaired by Alicia Gibb and Ayah Bdeir. The Open Hardware Summit is a venue to discuss and draw attention to the rapidly growing open source hardware movement. Speakers at the Summit include world renowned leaders from industry, academia and the DIY community. The summit focuses on hardware as a system through a series of discussions and panels on BUSINESS, LAW, MANUFACTURING, SCALING, DESIGN and EDUCATION. The one-day Summit seeks to empower companies, large and small, to produce electronic objects in an open source fashion. [http://www.openhardwaresummit.org/about] [...] ]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] The Open Hardware Summit is the world’s first comprehensive conference on open hardware, founded and chaired by Alicia Gibb and Ayah Bdeir. The Open Hardware Summit is a venue to discuss and draw attention to the rapidly growing open source hardware movement. Speakers at the Summit include world renowned leaders from industry, academia and the DIY community. The summit focuses on hardware as a system through a series of discussions and panels on BUSINESS, LAW, MANUFACTURING, SCALING, DESIGN and EDUCATION. The one-day Summit seeks to empower companies, large and small, to produce electronic objects in an open source fashion. [http://www.openhardwaresummit.org/about] [&#8230;] </p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Faculty News: Dominic Muren &#124; School of Art News + Events		</title>
+		<link>/#comment-20</link>
+
+		<dc:creator><![CDATA[Faculty News: Dominic Muren &#124; School of Art News + Events]]></dc:creator>
+		<pubDate>Wed, 23 Feb 2011 23:03:09 +0000</pubDate>
+		<guid isPermaLink="false">http://www.openhardwaresummit.org/#comment-20</guid>
+
+					<description><![CDATA[[...] in an online video. In late September 2010, he participated in two New York gatherings: the first Open Hardware Summit and Maker Faire, where he gave a presentation on the main stage. Muren recently was invited to talk [...] ]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] in an online video. In late September 2010, he participated in two New York gatherings: the first Open Hardware Summit and Maker Faire, where he gave a presentation on the main stage. Muren recently was invited to talk [&#8230;] </p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Attend the Summit	</title>
+	<atom:link href="/2010/09/09/attend-the-summit/feed/" rel="self" type="application/rss+xml" />
+	<link>/2010/09/09/attend-the-summit/</link>
+	<description></description>
+	<lastBuildDate>Fri, 05 Aug 2022 02:09:13 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>
+		By: Larry		</title>
+		<link>/2010/09/09/attend-the-summit/#comment-361</link>
+
+		<dc:creator><![CDATA[Larry]]></dc:creator>
+		<pubDate>Mon, 13 Sep 2010 15:08:47 +0000</pubDate>
+		<guid isPermaLink="false">http://www.openhardwaresummit.org/?p=88#comment-361</guid>
+
+					<description><![CDATA[I&#039;m driving in from New Jersey; since the parking lot is closed, is there any recommended parking lots nearby?]]></description>
+			<content:encoded><![CDATA[<p>I&#8217;m driving in from New Jersey; since the parking lot is closed, is there any recommended parking lots nearby?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

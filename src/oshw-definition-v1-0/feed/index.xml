@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: OSHW Definition v1.0	</title>
+	<atom:link href="/oshw-definition-v1-0/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sun, 20 May 2012 17:04:38 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>
+		By: PsyVision holographic display &#8211; GGHC update 2 and 3		</title>
+		<link>/oshw-definition-v1-0/#comment-26</link>
+
+		<dc:creator><![CDATA[PsyVision holographic display &#8211; GGHC update 2 and 3]]></dc:creator>
+		<pubDate>Mon, 11 Apr 2011 07:56:51 +0000</pubDate>
+		<guid isPermaLink="false">http://www.openhardwaresummit.org/#comment-26</guid>
+
+					<description><![CDATA[[...] below of how it is constructed and a link to a test video.  This invention is licensed under the Open Source Hardware Definition.  Or whichever license at the time of release makes the most sense of further innovation of it. [...] ]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] below of how it is constructed and a link to a test video.  This invention is licensed under the Open Source Hardware Definition.  Or whichever license at the time of release makes the most sense of further innovation of it. [&#8230;] </p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: El hardware libre anuncia cumbre y busca logo &#124; Raton tech : net : media : ideas		</title>
+		<link>/oshw-definition-v1-0/#comment-25</link>
+
+		<dc:creator><![CDATA[El hardware libre anuncia cumbre y busca logo &#124; Raton tech : net : media : ideas]]></dc:creator>
+		<pubDate>Thu, 24 Mar 2011 19:55:06 +0000</pubDate>
+		<guid isPermaLink="false">http://www.openhardwaresummit.org/#comment-25</guid>
+
+					<description><![CDATA[[...] anterior es parte del manifiesto en construcción que Open Source Hardware (OSHW V1.0) propone con el fin de potenciar el hasta ahora pequeño movimiento del &#8220;hardware [...] ]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] anterior es parte del manifiesto en construcción que Open Source Hardware (OSHW V1.0) propone con el fin de potenciar el hasta ahora pequeño movimiento del &#8220;hardware [&#8230;] </p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Electronics-Lab.com Blog &#187; Blog Archive &#187; Open Source Hardware Logos!		</title>
+		<link>/oshw-definition-v1-0/#comment-24</link>
+
+		<dc:creator><![CDATA[Electronics-Lab.com Blog &#187; Blog Archive &#187; Open Source Hardware Logos!]]></dc:creator>
+		<pubDate>Mon, 21 Feb 2011 15:38:42 +0000</pubDate>
+		<guid isPermaLink="false">http://www.openhardwaresummit.org/#comment-24</guid>
+
+					<description><![CDATA[[...] amazing OSHW Logos! Over 31+ entered so far, in the next couple weeks we’ll have a logo for the 1.0 definition! [...] ]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] amazing OSHW Logos! Over 31+ entered so far, in the next couple weeks we’ll have a logo for the 1.0 definition! [&#8230;] </p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Willie Geater		</title>
+		<link>/oshw-definition-v1-0/#comment-23</link>
+
+		<dc:creator><![CDATA[Willie Geater]]></dc:creator>
+		<pubDate>Thu, 17 Feb 2011 04:00:50 +0000</pubDate>
+		<guid isPermaLink="false">http://www.openhardwaresummit.org/#comment-23</guid>
+
+					<description><![CDATA[Regine Cliffe]]></description>
+			<content:encoded><![CDATA[<p>Regine Cliffe</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Tweets that mention OSHW Definition v1.0 &#124; Open Hardware Summit -- Topsy.com		</title>
+		<link>/oshw-definition-v1-0/#comment-22</link>
+
+		<dc:creator><![CDATA[Tweets that mention OSHW Definition v1.0 &#124; Open Hardware Summit -- Topsy.com]]></dc:creator>
+		<pubDate>Tue, 15 Feb 2011 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.openhardwaresummit.org/#comment-22</guid>
+
+					<description><![CDATA[[...] This post was mentioned on Twitter by Shigeru Kobayashi, Domodesk domotica. Domodesk domotica said: http://www.openhardwaresummit.org/oshw-definition-v1-0/ #openhardware algo se mueve en el sector del metal. [...] ]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] This post was mentioned on Twitter by Shigeru Kobayashi, Domodesk domotica. Domodesk domotica said: <a href="http://www.openhardwaresummit.org/oshw-definition-v1-0/" rel="nofollow ugc">http://www.openhardwaresummit.org/oshw-definition-v1-0/</a> #openhardware algo se mueve en el sector del metal. [&#8230;] </p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

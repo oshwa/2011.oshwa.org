@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>open hardware &#8211; Open Hardware Summit 2011</title>
+	<atom:link href="/tag/open-hardware/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Fri, 05 Aug 2022 02:04:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+<site xmlns="com-wordpress:feed-additions:1">209427104</site>	<item>
+		<title>Unveiling the Open Hardware Summit 2011: Schedule, Breakouts and Tickets</title>
+		<link>/2011/08/23/unveiling-the-open-hardware-summit-2011-schedule-breakouts-and-tickets/</link>
+		
+		<dc:creator><![CDATA[2011]]></dc:creator>
+		<pubDate>Tue, 23 Aug 2011 03:16:29 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[ohsummit]]></category>
+		<category><![CDATA[open hardware]]></category>
+		<category><![CDATA[open source hardware]]></category>
+		<category><![CDATA[summit]]></category>
+		<guid isPermaLink="false">http://www.openhardwaresummit.org/?p=294</guid>
+
+					<description><![CDATA[We are incredibly excited to announce an extraordinary lineup of speakers this year, featuring some of the biggest game-changers in Open Hardware history. TICKETS Please, purchase your tickets here: http://ohs2011-eorg.eventbrite.com/ Tickets [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>We are incredibly excited to announce an extraordinary <a href="http://www.2011.oshwa.org/schedule-2011/">lineup of speakers</a> this year, featuring some of the biggest game-changers in Open Hardware history.</p>
+<p><strong>TICKETS</strong><br />
+Please, purchase your tickets here: <a href="http://ohs2011-eorg.eventbrite.com/" target="_blank" rel="noopener">http://ohs2011-eorg.eventbrite.com/</a><br />
+Tickets include breakfast, lunch, snack time, cocktails, plus an amazing goodie bag from our fabulous sponsors. The goodie bag will also include one (1) complimentary <a href="http://makerfaire.com/">Maker Faire</a> ticket. More about tickets and accommodations on the <a href="http://www.2011.oshwa.org/attend-2011/">Attend</a> page.</p>
+<p>This year we’ve created an overflow space in the cafeteria to accommodate more people. The auditorium seating is first come.</p>
+<p><strong>BREAKOUTS</strong></p>
+<p>Due to popular demand, this year we have <a href="http://www.2011.oshwa.org/breakouts/">breakout sessions</a> in the afternoon session, to facilitate smaller group discussions. You will be asked to select a breakout session when purchase your ticket.</p>
+<p><strong>SPONSORSHIPS</strong></p>
+<p><a href="http://www.2011.oshwa.org/sponsor-2011/">Sponsors</a>, we still need you! The Open Hardware Summit would not be possible without you. We strive to keep the summit accessible, and still need some help covering our budget. Please consider joining our current <a href="http://www.2011.oshwa.org/2011/08/16/sponsors-we-need-you/">rockstar sponsors</a>, and see the amazing benefits you can get!</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">294</post-id>	</item>
+	</channel>
+</rss>

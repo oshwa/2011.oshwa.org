@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Open Hardware Decals	</title>
+	<atom:link href="/2011/04/13/open-hardware-decals/feed/" rel="self" type="application/rss+xml" />
+	<link>/2011/04/13/open-hardware-decals/</link>
+	<description></description>
+	<lastBuildDate>Fri, 05 Aug 2022 02:06:33 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>
+		By: ./src/vale &#8212; Open Hardware decals received		</title>
+		<link>/2011/04/13/open-hardware-decals/#comment-496</link>
+
+		<dc:creator><![CDATA[./src/vale &#8212; Open Hardware decals received]]></dc:creator>
+		<pubDate>Fri, 20 May 2011 13:30:29 +0000</pubDate>
+		<guid isPermaLink="false">http://www.openhardwaresummit.org/?p=202#comment-496</guid>
+
+					<description><![CDATA[[...] days ago I ordered some cool decals with the new Open Source Hardware logo printed. They have just arrived, take a [...] ]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] days ago I ordered some cool decals with the new Open Source Hardware logo printed. They have just arrived, take a [&#8230;] </p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Cherokee		</title>
+		<link>/2011/04/13/open-hardware-decals/#comment-495</link>
+
+		<dc:creator><![CDATA[Cherokee]]></dc:creator>
+		<pubDate>Thu, 14 Apr 2011 18:32:11 +0000</pubDate>
+		<guid isPermaLink="false">http://www.openhardwaresummit.org/?p=202#comment-495</guid>
+
+					<description><![CDATA[OMG ITS JASON KRUSE!!!]]></description>
+			<content:encoded><![CDATA[<p>OMG ITS JASON KRUSE!!!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: SOLD OUT!	</title>
+	<atom:link href="/2010/09/21/sold-out/feed/" rel="self" type="application/rss+xml" />
+	<link>/2010/09/21/sold-out/</link>
+	<description></description>
+	<lastBuildDate>Fri, 05 Aug 2022 02:08:58 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>
+		By: openhardwaresummit		</title>
+		<link>/2010/09/21/sold-out/#comment-364</link>
+
+		<dc:creator><![CDATA[openhardwaresummit]]></dc:creator>
+		<pubDate>Tue, 28 Sep 2010 02:21:26 +0000</pubDate>
+		<guid isPermaLink="false">http://www.openhardwaresummit.org/?p=105#comment-364</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/2010/09/21/sold-out/#comment-363&quot;&gt;James A Barkley&lt;/a&gt;.
+
+319 to be exact!
+-ayah]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/2010/09/21/sold-out/#comment-363">James A Barkley</a>.</p>
+<p>319 to be exact!<br />
+-ayah</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: James A Barkley		</title>
+		<link>/2010/09/21/sold-out/#comment-363</link>
+
+		<dc:creator><![CDATA[James A Barkley]]></dc:creator>
+		<pubDate>Thu, 23 Sep 2010 00:55:58 +0000</pubDate>
+		<guid isPermaLink="false">http://www.openhardwaresummit.org/?p=105#comment-363</guid>
+
+					<description><![CDATA[How many total tickets sold ??]]></description>
+			<content:encoded><![CDATA[<p>How many total tickets sold ??</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: james a barkley		</title>
+		<link>/2010/09/21/sold-out/#comment-362</link>
+
+		<dc:creator><![CDATA[james a barkley]]></dc:creator>
+		<pubDate>Wed, 22 Sep 2010 23:28:56 +0000</pubDate>
+		<guid isPermaLink="false">http://www.openhardwaresummit.org/?p=105#comment-362</guid>
+
+					<description><![CDATA[How many total tickets sold??]]></description>
+			<content:encoded><![CDATA[<p>How many total tickets sold??</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

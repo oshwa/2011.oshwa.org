@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Eagle &#038; EDA files for the Open Hardware Logo	</title>
+	<atom:link href="/2011/04/08/eagle-files-for-the-open-hardware-logo/feed/" rel="self" type="application/rss+xml" />
+	<link>/2011/04/08/eagle-files-for-the-open-hardware-logo/</link>
+	<description></description>
+	<lastBuildDate>Fri, 05 Aug 2022 02:06:38 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>
+		By: Brandon Stafford		</title>
+		<link>/2011/04/08/eagle-files-for-the-open-hardware-logo/#comment-494</link>
+
+		<dc:creator><![CDATA[Brandon Stafford]]></dc:creator>
+		<pubDate>Thu, 04 Aug 2011 15:21:32 +0000</pubDate>
+		<guid isPermaLink="false">http://www.openhardwaresummit.org/?p=197#comment-494</guid>
+
+					<description><![CDATA[I&#039;ve collected all of the different formats of the logo that I could find and given them a permanent home at http://oshwlogo.com/
+
+More formats are always welcome; the details are on the website.
+
+Brandon]]></description>
+			<content:encoded><![CDATA[<p>I&#8217;ve collected all of the different formats of the logo that I could find and given them a permanent home at <a href="http://oshwlogo.com/" rel="nofollow ugc">http://oshwlogo.com/</a></p>
+<p>More formats are always welcome; the details are on the website.</p>
+<p>Brandon</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Erik de Bruijn		</title>
+		<link>/2011/04/08/eagle-files-for-the-open-hardware-logo/#comment-493</link>
+
+		<dc:creator><![CDATA[Erik de Bruijn]]></dc:creator>
+		<pubDate>Wed, 08 Jun 2011 11:25:10 +0000</pubDate>
+		<guid isPermaLink="false">http://www.openhardwaresummit.org/?p=197#comment-493</guid>
+
+					<description><![CDATA[Thanks for this Eagle library. We&#039;ve placed it on the next version of our thermocouple amplifier (GPLv2). This is the earlier version:
+http://www.thingiverse.com/thing:7311]]></description>
+			<content:encoded><![CDATA[<p>Thanks for this Eagle library. We&#8217;ve placed it on the next version of our thermocouple amplifier (GPLv2). This is the earlier version:<br />
+<a href="http://www.thingiverse.com/thing:7311" rel="nofollow ugc">http://www.thingiverse.com/thing:7311</a></p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: andré		</title>
+		<link>/2011/04/08/eagle-files-for-the-open-hardware-logo/#comment-492</link>
+
+		<dc:creator><![CDATA[andré]]></dc:creator>
+		<pubDate>Thu, 26 May 2011 14:09:34 +0000</pubDate>
+		<guid isPermaLink="false">http://www.openhardwaresummit.org/?p=197#comment-492</guid>
+
+					<description><![CDATA[..will also be available in the next Fritzing release. :)]]></description>
+			<content:encoded><![CDATA[<p>..will also be available in the next Fritzing release. 🙂</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: yueleilei		</title>
+		<link>/2011/04/08/eagle-files-for-the-open-hardware-logo/#comment-491</link>
+
+		<dc:creator><![CDATA[yueleilei]]></dc:creator>
+		<pubDate>Wed, 18 May 2011 12:59:11 +0000</pubDate>
+		<guid isPermaLink="false">http://www.openhardwaresummit.org/?p=197#comment-491</guid>
+
+					<description><![CDATA[Just cool!]]></description>
+			<content:encoded><![CDATA[<p>Just cool!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

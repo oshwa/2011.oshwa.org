@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>David Mellis &#8211; Open Hardware Summit 2011</title>
+	<atom:link href="/author/david/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Fri, 05 Aug 2022 02:05:34 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+<site xmlns="com-wordpress:feed-additions:1">209427104</site>	<item>
+		<title>Submission deadline extended to July 1st.</title>
+		<link>/2011/06/24/submission-deadline-extended/</link>
+		
+		<dc:creator><![CDATA[David Mellis]]></dc:creator>
+		<pubDate>Fri, 24 Jun 2011 14:59:27 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">http://www.openhardwaresummit.org/?p=230</guid>
+
+					<description><![CDATA[We&#8217;re extending the submission deadline for the Open Hardware Summit until next Friday, July 1st (at 11:59 pm U.S. Eastern time). While there have been many exciting submissions already, we [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>We&#8217;re extending the submission deadline for the Open Hardware Summit until next Friday, July 1st (at 11:59 pm U.S. Eastern time).</p>
+<p>While there have been many exciting submissions already, we know that not everyone had enough time to put together their proposal.  We wanted to give a little extra time for anyone who needs it.</p>
+<p>If you&#8217;ve already submitted, you&#8217;re welcome to revise and resubmit your proposal up until the new deadline.</p>
+<p>See <a href="http://www.2011.oshwa.org/speak-2011/">the submission guidelines</a> for more information.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">230</post-id>	</item>
+	</channel>
+</rss>

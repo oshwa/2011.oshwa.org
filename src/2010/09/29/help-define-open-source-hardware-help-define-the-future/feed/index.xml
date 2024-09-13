@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Help define Open Source Hardware, help define the future	</title>
+	<atom:link href="/2010/09/29/help-define-open-source-hardware-help-define-the-future/feed/" rel="self" type="application/rss+xml" />
+	<link>/2010/09/29/help-define-open-source-hardware-help-define-the-future/</link>
+	<description></description>
+	<lastBuildDate>Fri, 05 Aug 2022 02:08:29 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>
+		By: P2P Foundation &#187; Blog Archive &#187; Business Models for Open Hardware		</title>
+		<link>/2010/09/29/help-define-open-source-hardware-help-define-the-future/#comment-365</link>
+
+		<dc:creator><![CDATA[P2P Foundation &#187; Blog Archive &#187; Business Models for Open Hardware]]></dc:creator>
+		<pubDate>Sat, 19 Mar 2011 08:04:58 +0000</pubDate>
+		<guid isPermaLink="false">http://www.openhardwaresummit.org/?p=125#comment-365</guid>
+
+					<description><![CDATA[[...] research on the types of business models specifically related to Open Hardware, just like there is no consensus on the definition of Open Hardware itself as well. The open asset is different from the ultimate market offer, the manufactured [...] ]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] research on the types of business models specifically related to Open Hardware, just like there is no consensus on the definition of Open Hardware itself as well. The open asset is different from the ultimate market offer, the manufactured [&#8230;] </p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Joe Saavedra	</title>
+	<atom:link href="/about/joe/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Fri, 26 Aug 2022 02:54:22 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>
+		By: Jessica Floeh		</title>
+		<link>/about/joe/#comment-2</link>
+
+		<dc:creator><![CDATA[Jessica Floeh]]></dc:creator>
+		<pubDate>Wed, 31 Aug 2011 05:40:58 +0000</pubDate>
+		<guid isPermaLink="false">http://2011.oshw.org/files/2010/09/joe.jpg#comment-2</guid>
+
+					<description><![CDATA[Yay! I like turtles.]]></description>
+			<content:encoded><![CDATA[<p>Yay! I like turtles.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

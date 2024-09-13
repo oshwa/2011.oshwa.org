@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>2011 &#8211; Open Hardware Summit 2011</title>
+	<atom:link href="/author/2011/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Fri, 05 Aug 2022 02:06:33 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+<site xmlns="com-wordpress:feed-additions:1">209427104</site>	<item>
+		<title>Passing the torch!</title>
+		<link>/2011/12/12/passing-the-torch/</link>
+					<comments>/2011/12/12/passing-the-torch/#comments</comments>
+		
+		<dc:creator><![CDATA[2011]]></dc:creator>
+		<pubDate>Mon, 12 Dec 2011 17:08:13 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">http://www.openhardwaresummit.org/?p=371</guid>
+
+					<description><![CDATA[Some members from the 2011 dream team with Ayah &#38; Alicia After two amazing and inspiring iterations (2011&#160;and&#160;2010), we are excited to announce we are passing the Open Hardware Summit [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><a href="/files/2011/12/2011-team.jpg"><img fetchpriority="high" decoding="async" class="alignnone size-full wp-image-372" src="/files/2011/12/2011-team.jpg" alt="" width="500" height="333"></a></p>
+<p><span class="Apple-style-span" style="font-size: 12px; font-style: italic; line-height: 18px;">Some members from the 2011 dream team with Ayah &amp; Alicia</span></p>
+<p>After two amazing and inspiring iterations (<a href="http://opensource.com/life/11/9/success-second-year-open-hardware-summit" target="_blank" rel="noopener">2011</a>&nbsp;and&nbsp;<a href="http://voices.yahoo.com/the-genius-minds-open-hardware-summit-6843446.html" target="_blank" rel="noopener">2010</a>), we are excited to announce we are passing the Open Hardware Summit torch!</p>
+<p>We had an amazing two years:&nbsp;we collectively created the&nbsp;<a href="http://arduino.cc/blog/2011/02/10/open-source-hardware-definition-v-1-0-released/?lang=it" target="_blank" rel="noopener">first OSHW definition&nbsp;</a>(which has been adopted by CERN),<a href="http://www.openhardwaresummit.org/2011/04/07/oshw-logo-selected/" target="_blank" rel="noopener">&nbsp;communally created a logo for our movement</a>, grew into a community&nbsp;that supports each other on&nbsp;<a href="http://www.openhardwaresummit.org/forum" target="_blank" rel="noopener">forums</a>,&nbsp;<a href="http://www.openhardwaresummit.org/mailing-list" target="_blank" rel="noopener">mailing lists&nbsp;</a>and&nbsp;<a href="http://blog.makezine.com/archive/2011/09/open-hardware-summit-sponsorship-goals-reached-thank-you.html" target="_blank" rel="noopener">sponsorships</a>, launched the first&nbsp;<a href="http://www.openhardwaresummit.org/2011/09/07/open-hardware-scholarship-submissions/" target="_blank" rel="noopener">Open Hardware Scholarship</a>, turned a conference&nbsp;<a href="http://www.flickr.com/photos/johngineer/6167191118/" target="_blank" rel="noopener">goodie bag</a>&nbsp;into something you would wrestle over, and created a&nbsp;<a href="http://www.flickr.com/photos/open_hardware_summit/sets/72157627583343095/" target="_blank" rel="noopener">geek red carpet that would have the Oscar&#8217;s drooling</a>!</p>
+<p>It was inspiring serving such an impassioned&nbsp;community, and we will both continue to serve in our own ways.&nbsp;The Open Hardware Summit is a mission-driven conference. It&#8217;s non-profit, and a labour of love.&nbsp;Our aim is to continually involve more and more of the community. In that effort we are announcing&nbsp;<a href="http://www.openmaterials.org/catarina" target="_blank" rel="noopener">Catarina Mota&nbsp;</a>and&nbsp;<a href="http://www.dustynrobots.com/" target="_blank" rel="noopener">Dustyn Roberts</a>&nbsp;as the two new co-chairs for the 2012 Open Hardware Summit.</p>
+<p><a href="/files/2011/12/Catarina.png"><img decoding="async" src="/files/2011/12/Catarina.png" alt="" title="Catarina" class="alignnone size-full wp-image-373" width="300" height="300"></a>&nbsp;<a href="/files/2011/12/dustin.jpg"><img decoding="async" class="alignnone size-full wp-image-374" src="/files/2011/12/dustin.jpg" alt="" width="300" height="300"></a></p>
+<address>Catarina Mota &amp; Dustyn Roberts</address>
+<p>&nbsp;</p>
+<p>With Catarina&#8217;s expertise in Open Materials, and Dustyn&#8217;s work in open mechanisms and robotics, each will bring a unique new dimension to the term &#8220;Open Hardware&#8221; and together broaden the relevance and reach of our movement and summit.</p>
+<div>
+<p>Thank you all for the support, we cannot stress enough that this is&nbsp;your&nbsp;movement, and everyone here has helped make it happen. The support for the Summit, from helping hands to donations, made it possible. Please continue to support the movement as it goes forward.</p>
+<p>Put your hands together for Catarina and Dustyn!</p>
+<p style="text-align: justify;">Cheers,</p>
+<p style="text-align: justify;">Alicia &amp; Ayah</p>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2011/12/12/passing-the-torch/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">371</post-id>	</item>
+		<item>
+		<title>Thank you</title>
+		<link>/2011/10/11/thank-you-2/</link>
+		
+		<dc:creator><![CDATA[2011]]></dc:creator>
+		<pubDate>Tue, 11 Oct 2011 20:27:16 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">http://www.openhardwaresummit.org/?p=362</guid>
+
+					<description><![CDATA[Thank you to all for attending, participating, supporting, sponsoring, and helping the Summit be a huge success this year! Thank you to our speakers, breakout session facilitators and demo&#8217;ers, the content [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><a href="/files/2011/10/audience-ohs1.jpg"><img loading="lazy" decoding="async" src="/files/2011/10/audience-ohs1.jpg" alt="" title="audience ohs1" width="300" height="300" class="alignnone size-full wp-image-363" /></a><a href="/files/2011/10/audience-ohs-2.jpg"><img loading="lazy" decoding="async" src="/files/2011/10/audience-ohs-2.jpg" alt="" title="audience ohs 2" width="300" height="300" class="alignnone size-full wp-image-364" /></a></p>
+<p>Thank you to all for attending, participating, supporting, <a href="http://www.2011.oshwa.org/sponsor-2011/">sponsoring</a>, and helping the Summit be a huge success this year! Thank you to our <a href="/files/2011/09/OHprogram2011-FINALtoprint.pdf">speakers, breakout session facilitators and demo&#8217;ers</a>, the content you all shared is truly what makes the Summit exciting, captivates the audience, and accelerates discussion. And thank you for sharing your <a href="http://www.2011.oshwa.org/documentation-2011/">slides</a>! Videos will be up soon, in the meantime check out the <a href="http://www.flickr.com/photos/open_hardware_summit/sets/72157627705796086/">photos</a> from Jacob Gibb and John De Cristofaro on the Open Hardware Summit&#8217;s <a href="http://www.flickr.com/photos/open_hardware_summit/sets/72157627705796086/">flickr stream</a>.</p>
+<p>Thank you to our <a href="http://www.2011.oshwa.org/sponsor-2011/">SPONSORS</a> who generously support the Summit. Each donation both from individuals and companies made a huge difference. We urge you to check out our <a href="http://www.2011.oshwa.org/sponsor-2011/">sponsors</a>, these are the companies believing in the open source hardware movement today and sharing a very large part of what it takes to run a conference &#8211; money!</p>
+<p>The Summit is completely volunteer run and non-profit. We couldn&#8217;t have done it without our <a href="http://www.2011.oshwa.org/about/">dream team</a> and several last minute volunteers who stepped up to tasks we didn&#8217;t expect! We are so fortunate to have an amazing community full of talented, giving people &#8211; please carry the excitement of the day with you into 2012.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">362</post-id>	</item>
+		<item>
+		<title>OPEN HARDWARE SCHOLARSHIP WINNER IS&#8230;</title>
+		<link>/2011/09/15/open-hardware-scholarship-winner-is/</link>
+					<comments>/2011/09/15/open-hardware-scholarship-winner-is/#comments</comments>
+		
+		<dc:creator><![CDATA[2011]]></dc:creator>
+		<pubDate>Thu, 15 Sep 2011 23:25:13 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">http://www.openhardwaresummit.org/?p=343</guid>
+
+					<description><![CDATA[We got 1.573 votes in 24 hours. You are awesome! The winner is: BITPONICS &#8211; Michael Zick Doherty &#38; Amit Kumar :: Brooklyn, NY.  &#8211; 200 votes (%13 of all votes) [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>We got 1.573 votes in 24 hours. You are awesome!</p>
+<p>The winner is:<br />
+<strong>BITPONICS &#8211; Michael Zick Doherty &amp; Amit Kumar</strong> :: Brooklyn, NY.  &#8211; 200 votes (%13 of all votes)</p>
+<p><a title="Open Hardware Summit Scholarship winner by open hardware summit, on Flickr" href="http://www.flickr.com/photos/open_hardware_summit/6162529631/"><img loading="lazy" decoding="async" src="http://farm7.static.flickr.com/6162/6162529631_7b60d7def6.jpg" alt="Open Hardware Summit Scholarship winner" width="500" height="333" /></a></p>
+<p>Second place:<br />
+Buswick Taz &#8211; Sean McIntyre :: Brooklyn, NY &#8211; 157 votes (%10 of all votes)</p>
+<p>Third place:<br />
+The Scrap to Stuff Project &#8211; Alex Thomson &#8211; 150 votes (%10 of all votes)</p>
+<p>CONGRATULATIONS to BITPONICS, you&#8217;ve won $2,000 courtesy of the generous Open Hardware Community!</p>
+<p>Thank you all for your participation.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2011/09/15/open-hardware-scholarship-winner-is/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">343</post-id>	</item>
+		<item>
+		<title>OPEN HARDWARE SCHOLARSHIP VOTING HAS ENDED!</title>
+		<link>/2011/09/15/341/</link>
+		
+		<dc:creator><![CDATA[2011]]></dc:creator>
+		<pubDate>Thu, 15 Sep 2011 22:07:58 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">http://www.openhardwaresummit.org/?p=341</guid>
+
+					<description><![CDATA[We had great support for all our scholarship candidates. Thanks everyone for the support and contribution! The winner will be announced very soon. Stay connected!]]></description>
+										<content:encoded><![CDATA[<p>We had great support for all our scholarship candidates.<br />
+Thanks everyone for the support and contribution!</p>
+<p>The winner will be announced very soon. Stay connected!</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">341</post-id>	</item>
+		<item>
+		<title>OPEN HARDWARE SCHOLARSHIP VOTING IS NOW OPEN TO PUBLIC!</title>
+		<link>/2011/09/14/voting-is-now-open-to-public/</link>
+		
+		<dc:creator><![CDATA[2011]]></dc:creator>
+		<pubDate>Wed, 14 Sep 2011 22:14:17 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">http://www.openhardwaresummit.org/?p=339</guid>
+
+					<description><![CDATA[Look at project videos and learn more information about the projects. Then promote your favorite project by voting. THE VOTING WILL TAKE PLACE IN A 24 HOUR PERIOD FROM SEPTEMBER [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Look at project videos and learn more information about the projects. Then promote your favorite project by voting.</p>
+<p>THE VOTING WILL TAKE PLACE IN A 24 HOUR PERIOD FROM SEPTEMBER 14 6PM TO SEPTEMBER 15 6PM. The winner will receive a prize of $2000.</p>
+<p>Support the Open Hardware community with your contribution.</p>
+<p><a href="http://www.2011.oshwa.org/scholarship">You can look at the projects and vote for your best project here.</a></p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">339</post-id>	</item>
+		<item>
+		<title>Open Hardware SCHOLARSHIP submissions</title>
+		<link>/2011/09/07/open-hardware-scholarship-submissions/</link>
+					<comments>/2011/09/07/open-hardware-scholarship-submissions/#comments</comments>
+		
+		<dc:creator><![CDATA[2011]]></dc:creator>
+		<pubDate>Wed, 07 Sep 2011 12:59:01 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[apply]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[grant]]></category>
+		<category><![CDATA[money]]></category>
+		<category><![CDATA[OHS]]></category>
+		<category><![CDATA[open hardware summit]]></category>
+		<category><![CDATA[scholarship]]></category>
+		<guid isPermaLink="false">http://www.openhardwaresummit.org/?p=301</guid>
+
+					<description><![CDATA[CALL FOR SUBMISSIONS: The Open Hardware Scholarship! DEADLINE HAS BEEN EXTENDED to 12:00pm, September 14th EST. &#160; VOTING WINDOW: SEPT 14TH @ 6:00PM &#8211; SEPT 15TH @ 6:00PM Do you [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h2>CALL FOR SUBMISSIONS: The Open Hardware Scholarship!</h2>
+<p><strong><span style="color: #333399">DEADLINE HAS BEEN EXTENDED to 12:00pm, September 14th EST.</span></strong></p>
+<p>&nbsp;</p>
+<div>
+<p><strong><span style="color: #333399">VOTING WINDOW: SEPT 14TH @ 6:00PM &#8211; SEPT 15TH @ 6:00PM</span></strong></p>
+<p>Do you have the next big Open Hardware idea, but just don&#8217;t have the funds for it?</p>
+<p>The Open Hardware Summit (OHS) is announcing its first Open Hardware scholarship this year! The purpose of the OHS scholarship is to support emerging artists/inventors and developers by providing funding for works that are released as Open Source Hardware. Granting these funds is an opportunity to draw attention to the Open Source Hardware movement, to give back to the DIY community, and to give you the chance to join a growing roster of gamechangers in Open Source Hardware history. If you have a project that is in the spirit of the OHS and supports the <a href="http://freedomdefined.org/OSHW" target="_blank" rel="noopener">OHSW definition</a>, we welcome your submissions.</p>
+<p><strong>PRIZE<br />
+</strong>Upwards of $2000 will be awarded. The scholarship is made available by the generous individuals and sponsors who have made the Open Hardware Summit possible.</p>
+<p><strong>PUBLIC VOTE</strong><br />
+The winner will be chosen by the public. All projects will be viewable online and voting will begin at 10am, September 14th. People will be able to vote on their favorite project remotely or onsite. The winning artist/group will be announce at the conclusion of OHS on September 15th at the New York Hall of Science</p>
+<p><strong>INSTRUCTIONS</strong><br />
+1. upload a 30 second (maximum) video clip to youtube that showcases the concept of your project. The title of the video MUST be the title of the work</p>
+<p>2. include a short paragraph in the description of the video. Your description must start with the following sentence, and go on to explain your project in less than 500 characters.<br />
+Example:<br />
+&#8220;The following project is a submission to the Open Hardware Scholarship awarded by the Open Hardware Summit 2011.<br />
+Project title: &#8230;<br />
+Project Description:..&#8221;</p>
+<p>3. email the following information to scholarship@openhardwaresummit.org :</p>
+<div>
+<ul>
+<li>name of artist/collaborative group</li>
+<li>email address</li>
+<li>place of resident (city, state/province, country)</li>
+<li>title of project</li>
+<li>summary of project (500 characters max)</li>
+<li>URL of video clip</li>
+<li>URL of project site <a href="http://www.openhardwaresummit.org/apply-oshw-definition/" target="_blank" rel="noopener">that includes your application of the OSHW Definition</a> (optional)</li>
+</ul>
+<p><strong>DEADLINE<br />
+</strong>For submissions is 12:00pm, September 14th EST. NO EXCEPTIONS</p>
+<p><strong>NOTES:<br />
+</strong>Please feel free to email scholarship@openhardwaresummit.org if you have any questions.</p>
+<p>Where does the money come from? We had $2,000 USD left over from our funds last year and we thought the best way to use it is to give it back to the community.</p>
+<p>Good luck!</p>
+<p>Hirumi Nanayakkara<br />
+Scholarship Chair<br />
+Open Hardware Summit 2011</p>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2011/09/07/open-hardware-scholarship-submissions/feed/</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">301</post-id>	</item>
+		<item>
+		<title>Unveiling the Open Hardware Summit 2011: Schedule, Breakouts and Tickets</title>
+		<link>/2011/08/23/unveiling-the-open-hardware-summit-2011-schedule-breakouts-and-tickets/</link>
+		
+		<dc:creator><![CDATA[2011]]></dc:creator>
+		<pubDate>Tue, 23 Aug 2011 03:16:29 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[ohsummit]]></category>
+		<category><![CDATA[open hardware]]></category>
+		<category><![CDATA[open source hardware]]></category>
+		<category><![CDATA[summit]]></category>
+		<guid isPermaLink="false">http://www.openhardwaresummit.org/?p=294</guid>
+
+					<description><![CDATA[We are incredibly excited to announce an extraordinary lineup of speakers this year, featuring some of the biggest game-changers in Open Hardware history. TICKETS Please, purchase your tickets here: http://ohs2011-eorg.eventbrite.com/ Tickets [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>We are incredibly excited to announce an extraordinary <a href="http://www.2011.oshwa.org/schedule-2011/">lineup of speakers</a> this year, featuring some of the biggest game-changers in Open Hardware history.</p>
+<p><strong>TICKETS</strong><br />
+Please, purchase your tickets here: <a href="http://ohs2011-eorg.eventbrite.com/" target="_blank" rel="noopener">http://ohs2011-eorg.eventbrite.com/</a><br />
+Tickets include breakfast, lunch, snack time, cocktails, plus an amazing goodie bag from our fabulous sponsors. The goodie bag will also include one (1) complimentary <a href="http://makerfaire.com/">Maker Faire</a> ticket. More about tickets and accommodations on the <a href="http://www.2011.oshwa.org/attend-2011/">Attend</a> page.</p>
+<p>This year we’ve created an overflow space in the cafeteria to accommodate more people. The auditorium seating is first come.</p>
+<p><strong>BREAKOUTS</strong></p>
+<p>Due to popular demand, this year we have <a href="http://www.2011.oshwa.org/breakouts/">breakout sessions</a> in the afternoon session, to facilitate smaller group discussions. You will be asked to select a breakout session when purchase your ticket.</p>
+<p><strong>SPONSORSHIPS</strong></p>
+<p><a href="http://www.2011.oshwa.org/sponsor-2011/">Sponsors</a>, we still need you! The Open Hardware Summit would not be possible without you. We strive to keep the summit accessible, and still need some help covering our budget. Please consider joining our current <a href="http://www.2011.oshwa.org/2011/08/16/sponsors-we-need-you/">rockstar sponsors</a>, and see the amazing benefits you can get!</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">294</post-id>	</item>
+		<item>
+		<title>A Maker Faire ticket is in the bag!</title>
+		<link>/2011/08/22/a-maker-faire-ticket-is-in-the-bag/</link>
+		
+		<dc:creator><![CDATA[2011]]></dc:creator>
+		<pubDate>Mon, 22 Aug 2011 05:06:57 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">http://www.openhardwaresummit.org/?p=287</guid>
+
+					<description><![CDATA[We&#8217;re excited to announce that Maker Faire, our partner in crime and catalyst to the Open Hardware Summit, will be including one (1) complimentary ticket to Maker Faire in the Open [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><a href="/files/2011/08/mf_ny11_badge_200x200.gif"><img loading="lazy" decoding="async" class="alignnone size-full wp-image-288" src="/files/2011/08/mf_ny11_badge_200x200.gif" alt="" width="200" height="200" /></a></p>
+<p>We&#8217;re excited to announce that <a href="http://makerfaire.com/">Maker Faire</a>, our partner in crime and catalyst to the Open Hardware Summit, will be including one (1) complimentary ticket to Maker Faire in the Open Hardware Summit goodie bag! As many people are familiar with Maker Faire in this crowd, we think you&#8217;ll be excited too.</p>
+<p>If you haven&#8217;t been to Maker Faire, it&#8217;s a very a prominent and important part of the DIY movement and has extremely strong overlap with open source hardware. The New York Maker Faire is Saturday and Sunday (Sept. 17th and 18th), just 2 days after the Summit. You can check out other Maker Faires locations on the Maker Faire website: <a href="http://makerfaire.com/">makerfaire.com</a></p>
+<p>We hope you&#8217;ll take advantage of the complimentary ticket and further support the DIY / Maker movement. The fabulous people on the Maker Faire crew have given the Summit a large amount of support from getting us hotel room blocks, and allowing us to take over <a href="http://www.nysci.org/">NYSCI</a> on one of their days, to advice about speakers and twitter. We are honored to be part of this community, standing on the shoulders of giants. We couldn&#8217;t do it without you!</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">287</post-id>	</item>
+		<item>
+		<title>Support the Open Hardware Summit</title>
+		<link>/2011/08/04/support-the-open-hardware-summit/</link>
+		
+		<dc:creator><![CDATA[2011]]></dc:creator>
+		<pubDate>Thu, 04 Aug 2011 12:23:43 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">http://www.openhardwaresummit.org/?p=247</guid>
+
+					<description><![CDATA[Sponsor the Summit! Sponsorship for the Open Hardware Summit is open! Special thanks to our sponsors who have already donated. The summit is in its second iteration in partnership with MAKE and Makerfaire at the New [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h2>Sponsor the Summit!</h2>
+<p><a href="http://www.2011.oshwa.org/sponsor-2011/">Sponsorship</a> for the Open Hardware Summit is open! Special thanks to our sponsors who have already donated.</p>
+<p>The summit is in its second iteration in partnership with <a href="http://makezine.com/">MAKE</a> and <a href="http://makerfaire.com/">Makerfaire</a> at the <a href="http://www.nysci.org/">New York Hall of Science</a>. Last year, 350 people came together to share knowledge about bringing open hardware to market, solving issues around open design, protocols and licensing. Many more people watched online and got involved in the conversation through the forums and twitter. Together with support from <em>you</em>, we have gained more momentum as a team. The <a href="http://www.2011.oshwa.org/oshw-definition-v1-0/">definition</a> we signed last year was turned into a license by <a href="http://public.web.cern.ch/press/pressreleases/Releases2011/PR08.11E.html">CERN</a>. We held a <a href="http://www.2011.oshwa.org/apply-oshw-definition/">logo</a> competition which received 129 submissions and chose one by popular vote. The summit continues to be about the DIY, Maker, small scale (and growing to large) fabrication movements and Open Hardware, and legalese around open source hardware.</p>
+<p>By sponsoring the <a href="http://www.2011.oshwa.org/">Open Hardware Summit</a> you’ll be fostering the open source hardware movement. Read more about <a href="http://www.2011.oshwa.org/why-sponsor/">Why to Sponsor</a>.</p>
+<h2>Sponsor Levels</h2>
+<p><strong>SUPPORTER: $300-$1,499</strong></p>
+<ul>
+<li>ONE complimentary ticket to the Summit</li>
+<li>Your logo will appear on the banner, website and program</li>
+<li>You will be able to add one (1) item in the goodie bag.</li>
+</ul>
+<p><strong>ENTHUSIAST $1,500 – $3,999</strong></p>
+<ul>
+<li>TWO complimentary tickets to the Summit</li>
+<li>Your logo will appear on the main section in the banner, website and program</li>
+<li>You will be able to add one (1) item in the goodie bag.</li>
+</ul>
+<p><strong>FANATIC $4,000 – $5,000</strong></p>
+<ul>
+<li>TWO complimentary tickets with RESERVED SEATS in the auditorium</li>
+<li>Your logo will appear on the main section in the banner, website and program</li>
+<li>You will be able to add one (1) item in the goodie bag.</li>
+</ul>
+<p>This is a non-profit event. Extra funds from sponsorship will be put toward a scholarship for creating open hardware.</p>
+<p><strong>Would you like to <a href="http://www.2011.oshwa.org/sponsor-2011/">Sponsor</a>?</strong></p>
+<p><em>Your donation is tax deductible. Thanks to <a href="http://eyebeam.org/">Eyebeam Art and Technology center</a>, our non-profit fiscal sponsor for handling the finances.</em></p>
+<p><span style="color: #000000"><strong><br />
+</strong></span></p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">247</post-id>	</item>
+		<item>
+		<title>Open Hardware Decals</title>
+		<link>/2011/04/13/open-hardware-decals/</link>
+					<comments>/2011/04/13/open-hardware-decals/#comments</comments>
+		
+		<dc:creator><![CDATA[2011]]></dc:creator>
+		<pubDate>Wed, 13 Apr 2011 14:30:45 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">http://www.openhardwaresummit.org/?p=202</guid>
+
+					<description><![CDATA[Jason Kruse of Mr. Decals created decals for the new Open Hardware logo and is giving them away free + shipping. Plaster your Open Hardware stickers everywhere! &#160; &#160;]]></description>
+										<content:encoded><![CDATA[<p>Jason Kruse of <a href="http://mrdecals.com/">Mr. Decals</a> created decals for the new Open Hardware logo and is giving them away <a href="http://www.mrdecals.com/free/OSHW">free + shipping</a>. Plaster your Open Hardware stickers everywhere!</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2011/04/13/open-hardware-decals/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">202</post-id>	</item>
+	</channel>
+</rss>
